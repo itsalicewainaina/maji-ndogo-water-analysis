@@ -1,4 +1,5 @@
-# 🚰 Maji Ndogo Water Access & Infrastructure Analysis
+#<img width="960" height="522" alt="Screenshot 2025-03-19 150523" src="https://github.com/user-attachments/assets/df425185-e2bf-43e4-9230-cbef8b806fee" />
+ Maji Ndogo Water Access & Infrastructure Analysis
 
 ### Turning 60,000 survey records into actionable insights on water access and infrastructure
 Maji Ndogo faces challenges related to water accessibility, infrastructure reliability, and the distribution of water sources across rural and urban communities.
