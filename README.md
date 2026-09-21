@@ -1,7 +1,7 @@
 # 🚰 Maji Ndogo Water Access & Infrastructure Analysis
 
 <p align="center">
-  <img src="assets/project-thumbnail.svg" alt="Maji Ndogo water access and infrastructure analysis thumbnail" width="1000" />
+  <img src="assets/project-thumbnail.png" alt="Maji Ndogo water access and infrastructure analysis thumbnail" width="1000" />
 </p>
 
 ### Turning 60,000 survey records into actionable insights on water access and infrastructure
